@@ -178,14 +178,26 @@ p {
     font-size: 36px;
 }
 
+.heading-Search-Engine-Optimization {
+ color:#0072bb   
+}
+
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+.heading-Online-Reputation-Management {
+    color:#0072bb  
+}
+
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.heading-Social-Media-Marketing {
+    color:#0072bb  
 }
 
 .footer {
