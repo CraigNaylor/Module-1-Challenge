@@ -34,8 +34,6 @@ body {
 
 .header div ul {
     list-style-type: none;
-    position: relative;
-    bottom: 48px;
 }
 
 .header div ul li {
@@ -44,7 +42,7 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: #fffb04;
     text-decoration: none;
 }
 
