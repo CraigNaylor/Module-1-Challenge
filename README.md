@@ -19,13 +19,16 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To Navigate the website with the keyboard, the TAB key can be used to scroll down the page and select different areas of the text. 
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
+## Links
+[Style Sheet Link (https://github.com/CraigNaylor/Module-1-Challenge/blob/main/assets/css/style.css)]
+[HTML Code Link ()]
 
 ## Credits
 
