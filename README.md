@@ -25,10 +25,11 @@ To Navigate the website with the keyboard, the TAB key can be used to scroll dow
 ## Links
 [Style Sheet Link (https://github.com/CraigNaylor/Module-1-Challenge/blob/main/assets/css/style.css)]
 [HTML Code Link (https://github.com/CraigNaylor/Module-1-Challenge/blob/main/index.html)]
+[Live webpage (https://craignaylor.github.io/Module-1-Challenge/)]
 
 ## Screenshots
 ![Repo Prior to Upload](https://github.com/CraigNaylor/Module-1-Challenge/blob/main/assets/project-images/Repo-1.PNG "repo home page")
-![Full live webpage](https://github.com/CraigNaylor/Module-1-Challenge/blob/main/assets/project-images/Webpage.png "final webpage screenshot")
+![Full live webpage screenshot](https://github.com/CraigNaylor/Module-1-Challenge/blob/main/assets/project-images/Webpage.png "final webpage screenshot")
 
 
 ## Credits
