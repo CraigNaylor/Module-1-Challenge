@@ -26,6 +26,9 @@ To Navigate the website with the keyboard, the TAB key can be used to scroll dow
 [Style Sheet Link (https://github.com/CraigNaylor/Module-1-Challenge/blob/main/assets/css/style.css)]
 [HTML Code Link (https://github.com/CraigNaylor/Module-1-Challenge/blob/main/index.html)]
 
+## Screenshots
+![Repo Prior to Upload]()
+
 ## Credits
 
 This project was worked on solely by me. The website https://www.w3schools.com/default.asp was used for guides and further research into HTML and CSS elements that needed adding and editing in the webpage. 
